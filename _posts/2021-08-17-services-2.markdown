@@ -1,0 +1,8 @@
+---
+layout: default
+img: schematic.jpg
+category: Services
+title: Hardware Design
+description: |
+---
+From prototypes to production boards, we offer schematic design and printed circuit board (PCB) layout along with testing and verification.

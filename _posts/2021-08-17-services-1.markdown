@@ -1,0 +1,8 @@
+---
+layout: default
+img: coding_cropped.jpg
+category: Services
+title: Embedded Firmware and Software Design
+description: |
+---
+Need an Field Programmable Gate Array (FPGA) to perform Digital Signal Processing (DSP)? Need a microcontroller to manage a system for optimized low power consumption? We have you covered. Our engineers have extensive experience with FPGAs and microcontrollers.

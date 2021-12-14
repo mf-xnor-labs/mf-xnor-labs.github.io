@@ -1,0 +1,28 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://www.xnor-labs.com
+title: XNOR Labs LLC
+email: contactus@xnor-labs.com
+author: ContactUs
+description: > # "Write an awesome description for your new site here. 
+  Welcome to XNOR Labs LLC. We have experience with Digital and Analog hardware design. 
+  FPGAs and Microcontrollers are our specialty.
+copyright: 'Copyright &copy; 2021 XNOR Labs LLC. All Rights Reserved.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: email
+    url: mailto:contactus@xnor-labs.com
